@@ -36,5 +36,5 @@ Create the Domain Controller VM (Windows Server 2022) named “RG-AD”:
 
 Create a Virtual Machine named "DC-1"
 <p>
-  <img src="(https://imgur.com/hxGdX5m)" height="75%" width="100%" alt="Virtual Machine Name"/>
+  <img src="https://imgur.com/hxGdX5m.png" height="75%" width="100%" alt="Virtual Machine Name"/>
 </p>
