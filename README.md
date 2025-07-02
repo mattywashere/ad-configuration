@@ -67,3 +67,20 @@ Login to DC-1 and install Active Directory Domain Services:
 <p>
 9.  <img src="https://imgur.com/aqo5SpH.png" height="75%" width="100%" alt="enable ICMPv4"/>
 </p>
+Promote as a Domain Controller:
+<p>
+10.  <img src="https://imgur.com/S7QkJq4.png" height="75%" width="100%" alt="enable ICMPv4"/>
+</p>
+Setup a new forest as myactivedirectory.com (can be anything, just remember what it is - I ultimately did set it up as myadproject.com which you'll see in the next pic):
+<p>
+11.  <img src="https://imgur.com/4sbqv7o.png" height="75%" width="100%" alt="enable ICMPv4"/>
+</p>
+Restart and then log back into DC-1 as user: myadproject.com\labuser:
+<p>
+12.  <img src="https://imgur.com/7vBeAYC.png" height="75%" width="100%" alt="enable ICMPv4"/>
+</p>
+<h3 align="center">Create an Admin and Normal User Account in AD</h3>
+In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES” and another one called "_ADMINS":
+<p>
+13.  <img src="https://imgur.com/KwanU7K.png" height="75%" width="100%" alt="enable ICMPv4"/>
+</p>
