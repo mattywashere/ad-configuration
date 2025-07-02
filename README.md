@@ -51,5 +51,5 @@ Set Domain Controller’s NIC Private IP address to be static
 
 Check that both Virtual Machines are in the same Vnet (You can check the topology with Network Watcher)
 <p>
-5.  <img src="https://imgur.com/afB5syr" height="75%" width="100%" alt="Topology"/>
+5.  <img src="https://imgur.com/afB5syr.png" height="75%" width="100%" alt="Topology"/>
 </p>
