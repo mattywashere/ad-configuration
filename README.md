@@ -30,4 +30,6 @@ This tutorial teaches the implementation of Active Directory within Azure Virtua
 # Deployment and Configuration Steps
 
 Create the Domain Controller VM (Windows Server 2022) named “RG-AD”:
+<p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" height="40%" width="40%"alt="Resource Group"/>
+</p>
