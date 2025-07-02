@@ -4,3 +4,10 @@
 
 # Configuring Active Directory Within Azure
 This tutorial teaches the implementation of Active Directory within Azure Virtual Machines
+
+# Environments & Technologies Used
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Active Directory Domain Services
+- PowerShell
