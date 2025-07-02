@@ -46,5 +46,5 @@ Now create the Client VM (Windows 10) named “Client-1”. Use the same Resourc
 
 Set Domain Controller’s NIC Private IP address to be static
 <p>
-  <img src="https://imgur.com/fpjb7Mm" height="75%" width="100%" alt="Static IP"/>
+  <img src="https://imgur.com/fpjb7Mm.png" height="75%" width="100%" alt="Static IP"/>
 </p>
