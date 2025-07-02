@@ -58,3 +58,8 @@ Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with 
 <p>
 6.  <img src="https://imgur.com/L2wHmKP.png" height="75%" width="100%" alt="perpetual ping"/>
 </p>
+Login to the Domain Controller and enable ICMPv4 in on the local windows firewall:
+<p>
+7.  <img src="https://i.imgur.com/ZpPyEkt.png" height="75%" width="100%" alt="enable ICMPv4"/>
+</p>
+
