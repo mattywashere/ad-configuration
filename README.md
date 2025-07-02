@@ -1,1 +1,1 @@
-# Configuring Active Directory (On-Premises) Within Azure
+# Configuring Active Directory Within Azure
