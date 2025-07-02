@@ -56,5 +56,5 @@ Check that both Virtual Machines are in the same Vnet (You can check the topolog
 <h3 align="center">Ensure Connectivity between the client and Domain Controller</h3>
 Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping):
 <p>
-  <img src="https://imgur.com/L2wHmKP.png" height="75%" width="100%" alt="perpetual ping"/>
+6.  <img src="https://imgur.com/L2wHmKP.png" height="75%" width="100%" alt="perpetual ping"/>
 </p>
