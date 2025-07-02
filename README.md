@@ -29,7 +29,7 @@ This tutorial teaches the implementation of Active Directory within Azure Virtua
 
 # Deployment and Configuration Steps
 
-Create the Domain Controller VM (Windows Server 2022) named “RG-AD”:
+Create the Domain Controller VM (Windows Server 2022) named “RG-AD”
 <p>
   <img src="https://i.imgur.com/gaAzjvb.png" height="75%" width="100%" alt="Resource Group"/>
 </p>
@@ -39,7 +39,7 @@ Create a Virtual Machine named "DC-1"
   <img src="https://imgur.com/hxGdX5m.png" height="75%" width="100%" alt="Virtual Machine Microsoft Server"/>
 </p>
 
-Now create the Client VM (Windows 10) named “Client-1”. Use the same Resource Group and Vnet that was created in previous step:
+Now create the Client VM (Windows 10) named “Client-1”. Use the same Resource Group and Vnet that was created in previous step
 <p>
-  <img src="https://imgur.com/Qe7kTPg.png" height="75%" width="100%" alt="Virtual Machine Windows"/>
+  <img src="https://imgur.com/Qe7kTPg.png" height="75%" width="100%" alt="Client Virtual Machine Windows"/>
 </p>
