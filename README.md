@@ -28,7 +28,7 @@ This tutorial teaches the implementation of Active Directory within Azure Virtua
 - Create additional users and attempt to log into client-1 with one of the users
 
 # Deployment and Configuration Steps
-
+<h3 align="center">Setup Resources in Azure</h3>
 Create the Domain Controller VM (Windows Server 2022) named “RG-AD”
 <p>
 1.  <img src="https://i.imgur.com/gaAzjvb.png" height="75%" width="100%" alt="Resource Group"/>
@@ -52,4 +52,9 @@ Set Domain Controller’s NIC Private IP address to be static
 Check that both Virtual Machines are in the same Vnet (You can check the topology with Network Watcher)
 <p>
 5.  <img src="https://imgur.com/afB5syr.png" height="75%" width="100%" alt="Topology"/>
+</p>
+<h3 align="center">Ensure Connectivity between the client and Domain Controller</h3>
+Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping):
+<p>
+  <img src="https://imgur.com/L2wHmKP.png" height="75%" width="100%" alt="perpetual ping"/>
 </p>
