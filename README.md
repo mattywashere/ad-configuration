@@ -26,3 +26,7 @@ This tutorial teaches the implementation of Active Directory within Azure Virtua
 - Join Client-1 to your domain (myadproject.com)
 - Setup Remote Desktop for non-administrative users on Client-1
 - Create additional users and attempt to log into client-1 with one of the users
+
+# Deployment and Configuration Steps
+
+Create the Domain Controller VM (Windows Server 2022) named “DC-1”:
